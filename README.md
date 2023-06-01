@@ -1,1 +1,2 @@
-# CML_MindSpore
+# CML_MindSpore  
+code for CML in mindspore
